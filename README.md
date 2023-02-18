@@ -4,3 +4,6 @@
 THUMB MUST BE REVISED - FLAW IN ROTORY MOTION 
 
 REVISE FILE FOR PRINT
+
+
+potential api: https://imaginary.tech/project/signspeech/ OR https://ds.gpii.net/learn/accessibility-masterlist/translate-text-sign-language 
